@@ -1,6 +1,6 @@
 <?php
 /**
-* Template Name: About
+* Template Name: About new feture-new
 * Template Post Type: page
  *
  * This is the template that displays all pages by default.
